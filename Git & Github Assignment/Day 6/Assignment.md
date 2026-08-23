@@ -35,13 +35,16 @@ git push origin main
 <img width="1200" height="1600" alt="639965826-9be11b92-3df6-4869-8c7d-5b9f0e2f2a91" src="https://github.com/user-attachments/assets/c1e94fad-591d-4705-a303-7aa160d24adb" />
 
 <img width="1200" height="1600" alt="639965833-4f4cd61e-a575-4088-a9db-69e2c3ed656f" src="https://github.com/user-attachments/assets/68c4f7c3-fe0f-45a1-9c51-85ca3f3e5988" />
+https://github.com/ashishtripathi8303042550-spec/Git-commit/blob/main/practice.txt
+<img width="873" height="371" alt="image" src="https://github.com/user-attachments/assets/a1c6e4af-3d9c-4488-b270-c6659e51b500" />
 
-https://github.com/ayuhkumar/Merge-Conflict-Practice/blob/main/practice.txt
-<img width="589" height="251" alt="image" src="https://github.com/user-attachments/assets/78708c5a-fc74-49c7-b458-c47c51303929" />
-<img width="624" height="205" alt="image" src="https://github.com/user-attachments/assets/aeab043d-1b30-473c-85b0-c4795933eb02" />
-<img width="1059" height="436" alt="image" src="https://github.com/user-attachments/assets/a8b7aa28-c8d1-47b5-b882-63b2c8897e04" />
+<img width="817" height="280" alt="image" src="https://github.com/user-attachments/assets/d39a3534-9010-4dee-9099-c50fa835fd2d" />
+
 
 <img width="656" height="278" alt="image" src="https://github.com/user-attachments/assets/051929cf-3909-4551-b0d5-c3009daecad9" />
+<img width="777" height="236" alt="image" src="https://github.com/user-attachments/assets/5607efe4-6e83-481d-934f-e852a1853ddc" />
 
-<img width="1425" height="775" alt="image" src="https://github.com/user-attachments/assets/712d3628-669f-4c08-918b-fdceaf5bedfa" />
+<img width="868" height="385" alt="image" src="https://github.com/user-attachments/assets/dcefd5fc-615a-4e6e-9a1c-199431268623" />
+
+<img width="1262" height="407" alt="image" src="https://github.com/user-attachments/assets/b84d1d77-3ab8-4f16-a3e8-c02b08c6cecf" />
 
