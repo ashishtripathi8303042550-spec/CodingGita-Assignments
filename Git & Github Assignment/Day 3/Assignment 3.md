@@ -26,7 +26,8 @@
    - VS Code terminal showing Git Bash is selected
   
 <img width="1200" height="1600" alt="639964320-cc0e35dd-8ab0-4c64-a671-845269c7bded" src="https://github.com/user-attachments/assets/d75f90fb-ca99-4abb-b4c2-7c73292dc24c" />
-<img width="1118" height="467" alt="image" src="https://github.com/user-attachments/assets/038c9a8f-8d36-4eef-a7ef-d96daccb4211" />
+
+<img width="631" height="163" alt="image" src="https://github.com/user-attachments/assets/de2f3363-63d9-430f-81d8-bdf4e98f37eb" />
 
 <img width="420" height="535" alt="image" src="https://github.com/user-attachments/assets/0544390d-f771-4704-b373-bf85482eb19e" />
 
