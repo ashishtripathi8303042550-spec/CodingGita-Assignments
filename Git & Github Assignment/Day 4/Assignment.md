@@ -17,7 +17,7 @@
 
 <img width="1200" height="1600" alt="639964925-a8933ed6-9f6f-4378-834b-95336ade20c9" src="https://github.com/user-attachments/assets/2db72cf6-7568-48e9-860b-c846dce0204b" />
 
-<img width="1460" height="547" alt="image" src="https://github.com/user-attachments/assets/87a47a7c-3bb6-424c-a451-984a34cc8e27" />
+<img width="554" height="609" alt="image" src="https://github.com/user-attachments/assets/bb46a3b9-6e71-4f3d-abf1-7b654e311d5d" />
 
 ### Assignment 2: Understanding Core Concepts
 
