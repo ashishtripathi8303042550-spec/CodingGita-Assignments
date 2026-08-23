@@ -57,10 +57,10 @@
    git remote add origin <your-github-repo-url>
    git branch -M main
    git push -u origin main
-   ```
-   <img width="455" height="143" alt="image" src="https://github.com/user-attachments/assets/706bb77e-1e68-4280-aa3e-368cbed52fab" />
-   <img width="581" height="292" alt="image" src="https://github.com/user-attachments/assets/7ad2519d-50d2-4adf-915e-fd5b74a51484" />
-<img width="1413" height="767" alt="image" src="https://github.com/user-attachments/assets/558dfbbb-ec4b-4084-8928-676b08b06ba7" />
+  <img width="1083" height="467" alt="image" src="https://github.com/user-attachments/assets/f9fcaf83-5430-4e16-b857-eb12cef3023a" />
+<img width="1072" height="516" alt="image" src="https://github.com/user-attachments/assets/0e9b0dc7-eb37-40ac-ab45-23f7bc86fdd9" />
+<img width="1156" height="565" alt="image" src="https://github.com/user-attachments/assets/ace9b233-78f4-449e-a2c2-d068b3edc23d" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/4416300b-8967-476d-a743-65e55d5c379f" />
 
 4. Verify that the file appears on GitHub.
 
