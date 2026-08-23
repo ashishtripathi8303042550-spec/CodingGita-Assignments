@@ -50,13 +50,15 @@
    git push origin main
    ```
 5. Verify that the file appears on GitHub.
-<img width="1200" height="1600" alt="639965408-74e22be0-f744-45c7-8097-2ab02898390d" src="https://github.com/user-attachments/assets/b05cef6a-e70d-4851-8099-1c038e0ce969" />
-<img width="703" height="245" alt="image" src="https://github.com/user-attachments/assets/5f791208-5079-4619-98df-6725b183dce0" />
-<img width="625" height="287" alt="image" src="https://github.com/user-attachments/assets/19db4774-56cd-471a-aeb7-b222f98b3483" />
-<img width="560" height="148" alt="image" src="https://github.com/user-attachments/assets/54c12888-bee9-461d-961d-380221d8e5f5" />
-<img width="608" height="268" alt="image" src="https://github.com/user-attachments/assets/c96d2c42-6249-4f18-8b5b-122eab241d09" />
+<img width="915" height="455" alt="image" src="https://github.com/user-attachments/assets/1875a07d-e234-47e2-8e84-ec3ea28c1ced" />
 
-<img width="1421" height="809" alt="image" src="https://github.com/user-attachments/assets/8aa4ab34-3a6a-4ee7-aeed-57a0db9034a8" />
+<img width="826" height="217" alt="image" src="https://github.com/user-attachments/assets/5e57325b-9276-4779-8bf9-e6d8c4d38fa4" />
+
+<img width="1107" height="228" alt="image" src="https://github.com/user-attachments/assets/4ce39600-7d8e-430e-b30f-fe4c9567de7f" />
+<img width="783" height="292" alt="image" src="https://github.com/user-attachments/assets/5b3d1b21-9df1-4cee-a508-cd7fef7fb35e" />
+
+<img width="1302" height="527" alt="image" src="https://github.com/user-attachments/assets/aaa920c5-7d5c-4472-a807-1ff8e99c7b68" />
+
 
 ### Assignment 4: Command Flow & Movement
 
