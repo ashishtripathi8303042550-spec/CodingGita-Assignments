@@ -44,7 +44,7 @@
 4. Why is having a terminal inside VS Code useful for Git?
 <img width="1200" height="1600" alt="639962240-9cfed5f0-9834-4a72-98a0-ce0aac0b911d" src="https://github.com/user-attachments/assets/8ef4f8c2-fe33-493c-b8d5-f0c01dbcc603" />
 <img width="377" height="966" alt="image" src="https://github.com/user-attachments/assets/13272b04-009d-4081-af8d-fdfd401842d3" />
-<img width="1105" height="461" alt="image" src="https://github.com/user-attachments/assets/644a35b8-79c9-44cf-ac60-7b60113905ad" />
+
 <img width="1912" height="28" alt="image" src="https://github.com/user-attachments/assets/a7033974-1fb4-4528-bdec-2994e236cda8" />
 
 <img width="60" height="995" alt="image" src="https://github.com/user-attachments/assets/95496f96-df2e-496c-8f23-d50147e09e5f" />
@@ -69,9 +69,7 @@
    - Your GitHub profile (showing the contribution calendar)
   
 <img width="1200" height="1600" alt="639962338-f2c9a57e-43fa-478d-bfe9-142f9a32bf87" src="https://github.com/user-attachments/assets/81854e23-fb35-4ebc-873a-bc3d943f057e" />
-<img width="1433" height="809" alt="image" src="https://github.com/user-attachments/assets/f2787051-1548-4a2f-b10d-4bef7e569187" />
 
-<img width="1404" height="741" alt="image" src="https://github.com/user-attachments/assets/01cc0d38-504d-44d9-b19f-2d59a257d92a" />
 
 
 ### Assignment 5: Conceptual Clarity + Reflection
