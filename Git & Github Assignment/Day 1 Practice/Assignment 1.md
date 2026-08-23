@@ -9,3 +9,116 @@ List at least 5 problems that occur when multiple people work on files without V
 In your own words, define what a Version Control System (VCS) is.
 Write 3 benefits of using a VCS in a college project or team project
 
+<img width="1600" height="1466" alt="image-1" src="https://github.com/user-attachments/assets/558bae32-14cf-4638-80fa-6bfba5a7d0d6" />
+
+Assignment 2: Types of Version Control Systems
+Objective: Understand the three types of VCS with examples and diagrams.
+
+Tasks:
+
+Explain the following with simple diagrams (hand-drawn or digital):
+Local Version Control System
+Centralized Version Control System (CVCS)
+Distributed Version Control System (DVCS)
+Give 2 examples of each type.
+Write 2 advantages and 2 disadvantages of each type.
+Which type is Git? Justify your answer in 3–4 lines.
+<img width="690" height="1601" alt="image-2" src="https://github.com/user-attachments/assets/3b9c97aa-9c0b-41de-9cb8-85b06d705b2b" />
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/c06b95ca-f250-4466-ba4f-157576d1cc27" />
+
+<img width="1600" height="715" alt="image-3" src="https://github.com/user-attachments/assets/61f2dc3c-3898-49a5-ae9f-42bb233648bc" />
+
+
+Assignment 3: Comparison Table + Analysis
+Objective: Compare different types of VCS.
+
+Tasks:
+
+Create a comparison table with the following columns:
+Feature	Local VCS	Centralized VCS	Distributed VCS
+History stored where?			
+Collaboration			
+Works offline?			
+Single point of failure			
+Examples			
+Answer the following:Assignment 3: Comparison Table + Analysis<img width="1600" height="1425" alt="image-4" src="https://github.com/user-attachments/assets/0018a7a4-2d87-4fae-9843-9460f3ebf2c5" />
+
+Objective: Compare different types of VCS.
+
+Tasks:
+
+Create a comparison table with the following columns:
+Feature	Local VCS	Centralized VCS	Distributed VCS
+History stored where?			
+Collaboration			
+Works offline?			
+Single point of failure			
+Examples			
+Answer the following:
+Why is Centralized VCS better than Local VCS?
+Why is Distributed VCS considered better than Centralized VCS for modern teams?
+What is the biggest disadvantage of Centralized VCS?
+
+Why is Centralized VCS better than Local VCS?
+Why is Distributed VCS considered better than Centralized VCS for modern teams?
+What is the biggest disadvantage of Centralized VCS?
+
+<img width="1600" height="1425" alt="image-4" src="https://github.com/user-attachments/assets/61cff41f-8d75-49c7-8ac0-3c0907189247" />
+
+<img width="1600" height="838" alt="image-5" src="https://github.com/user-attachments/assets/9d357cad-ef0e-4d74-ba32-67a8c800373c" />
+
+
+
+Assignment 4: Why Git is the Most Popular VCS
+Objective: Understand the reasons behind Git’s popularity.
+
+Tasks:
+
+Who created Git and in which year?
+List any 6 reasons why Git became the most popular Version Control System.
+Explain the following points in your own words (3–4 lines each):
+Distributed nature of Git
+Powerful branching
+Speed of Git
+Name any 3 platforms that work with Git (example: GitHub).
+
+
+
+<img width="1600" height="1324" alt="image-6" src="https://github.com/user-attachments/assets/7f497103-0d3e-4b59-9a39-bd3fcb074c7c" />
+
+
+
+
+
+<img width="1600" height="1308" alt="image-7" src="https://github.com/user-attachments/assets/2fa4959d-a44d-4a5b-81d3-3da00144726a" />
+
+
+
+Assignment 5: Conceptual + Real-Life Application
+Objective: Apply the concepts of VCS to a practical situation.
+
+Tasks:
+
+Imagine you and 3 classmates are working on a final year project (website or app).
+Which type of VCS will you choose and why?
+Explain what problems you might face if you use only Google Drive / shared folder instead of VCS.
+Draw a simple workflow showing how a Distributed VCS (like Git) helps your team.
+Write 4 key takeaways you learned from Day 1.
+
+
+
+<img width="1600" height="846" alt="image-8" src="https://github.com/user-attachments/assets/73257eca-7b04-4436-8729-93b1db937a40" />
+
+
+
+
+
+<img width="1200" height="1600" alt="image-9" src="https://github.com/user-attachments/assets/92286cee-ad0f-4f70-884a-fbe6e3289f5e" />
+
+
+
+
+
+
+
